@@ -1,4 +1,4 @@
-# P2P Gnutella-based
+# Gnutella-based P2P
 
 In our project we implemented a console-based peer-to-peer application used for exchanging every type of digital content between peers by adopting a special version of the decentralized Gnutella protocol; the application was written by using the high level programming language Python.
 The tool uses 3 different Sockets at 3 different ports in order to:
