@@ -9,3 +9,5 @@ The tool uses 3 different Sockets at 3 different ports in order to:
 Technologies used: Python (Multi-Threading, Sockets)
 
 ### Technologies used: Python (multi-threading, Sockets)
+
+![Alt text](p2p_example.png)
